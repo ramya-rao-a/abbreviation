@@ -1,7 +1,7 @@
 {
-  "name": "@emmetio/abbreviation",
+  "name": "emmet-abbreviation-helper",
   "version": "0.6.3",
-  "description": "Emmet standalone abbreviation parser",
+  "description": "Fork of the Emmet standalone abbreviation parser",
   "main": "dist/abbreviation.cjs.js",
   "module": "dist/abbreviation.es.js",
   "scripts": {
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emmetio/abbreviation.git"
+    "url": "git+https://github.com/ramya-rao-a/abbreviation.git"
   },
   "bugs": {
-    "url": "https://github.com/emmetio/abbreviation/issues"
+    "url": "https://github.com/ramya-rao-a/abbreviation/issues"
   },
-  "homepage": "https://github.com/emmetio/abbreviation#readme",
+  "homepage": "https://github.com/ramya-rao-a/abbreviation#readme",
   "dependencies": {
     "@emmetio/node": "^0.1.2",
     "@emmetio/stream-reader": "^2.0.0",
